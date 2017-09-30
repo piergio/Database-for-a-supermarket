@@ -1,0 +1,13 @@
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\stipendi_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\impiegati_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\depart_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\afferenza_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\prod_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\composition_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\furniture_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\fornitura_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\premi_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\prodpunti_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\customer_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\scontrini_insert.sql
+source C:\Users\Piergiovanni\Desktop\Progetto_BasiDiDati\insert\acquisto_insert.sql
